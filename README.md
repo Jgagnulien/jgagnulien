@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Julien
 
 🎓 Master’s in Economic and Statistical Studies
+
 ⚒️ Data-Scientist Intern at SAS Institute
 
 ## 📫 Let's Connect!
