@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Julien
 
-<!--
-**Jgagnulien/jgagnulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Economic and Statistical Studies
+🔍 Passionate about data analysis, modeling, and AI
 
-Here are some ideas to get you started:
+## 🧠 My Skills
+- Python, Pandas, scikit-learn
+- SQL, Spark, BigQuery
+- Econometrics, Statistics
+- Machine Learning, NLP, Synthetic Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+
+## 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/julien-gagnaire-a90730228) • [Portfolio](https://jgagnulien.github.io/portfolio/)
