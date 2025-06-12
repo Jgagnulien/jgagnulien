@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Julien
+# 👋 Welcome to my Github !
 
 🎓 Master’s in Economic and Statistical Studies
 
